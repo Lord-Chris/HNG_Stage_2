@@ -30,8 +30,8 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        body: Center(
-          child: SingleChildScrollView(
+        body: SingleChildScrollView(
+          child: Center(
             child: Column(
               children: [
                 Container(
