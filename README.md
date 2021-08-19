@@ -12,6 +12,6 @@ HNG Stage 2 Task(PRINT NAME) contains the print name code.
 
 ![Zuri Logo](https://res.cloudinary.com/zuri-team/image/upload/zuriboard/tenant-logo/ms5faj5pae6nd03wazk1.png)
 
-![App Screenshot](App Screenhot.jpg?raw=true "Screenshot")
+![App Screenshot](https://raw.githubusercontent.com/Lord-Chris/HNG_Stage_2/main/App%20Screenhot.jpg)
 
 
