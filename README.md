@@ -14,4 +14,4 @@ HNG Stage 2 Task(PRINT NAME) contains the print name code.
 
 ![App Screenshot](https://raw.githubusercontent.com/Lord-Chris/HNG_Stage_2/main/App%20Screenhot.jpg)
 
-![App Video](https://github.com/Lord-Chris/HNG_Stage_2/blob/main/Screenrecorder-2021-08-19-15-57-44-761.mp4?raw=true)
+![App Video](https://github.com/Lord-Chris/HNG_Stage_2/blob/main/Screenrecorder-2021-08-19-15-57-44-761.mp4)
