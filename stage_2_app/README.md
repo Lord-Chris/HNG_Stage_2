@@ -3,7 +3,7 @@
 An app that receives and displays user input
 
 # Short video showing how the app works
-![App Video](https://raw.githubusercontent.com/Lord-Chris/HNG_Stage_2/main/Screenrecorder-2021-08-19-15-57-44-761.gif)
+![App Video](https://raw.githubusercontent.com/Lord-Chris/HNG_Stage_2/main/stage_2_app/Screenrecorder-2021-08-19-15-57-44-761.gif)
 
 # Link to App's APK
 https://appetize.io/app/9njeb4ytadtdmy7dhppk1m74qw
