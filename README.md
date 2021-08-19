@@ -1,17 +1,7 @@
-# stage_2_task
+# HNGi8-Stage-2-Task
 
-An app that receives and displays user input
+This repository contains the tasks for stage 2 for HNGi8
+- It has a python file that prints my name (HNG Stage 2 Task(PRINT NAME).py)
+- It also includes a flutter app that accept input from user and displays the output. it in the stage_2_app folder.
 
-HNG Stage 2 Task(PRINT NAME) contains the print name code.
-
-#### - [For HNG i8 Internship](https://zuri.team)
-
-![HNG Logo](https://www.techzim.co.zw/wp-content/uploads/2018/04/TheHNGInternship-e1524228565227.png)
-
-![I4G Logo](https://ingressive.org/wp-content/uploads/2020/05/I4G-Logo-Color-Cropped.png)
-
-![Zuri Logo](https://res.cloudinary.com/zuri-team/image/upload/zuriboard/tenant-logo/ms5faj5pae6nd03wazk1.png)
-
-![App Screenshot](App Screenhot.jpg?raw=true "Screenshot")
-
-
+Please take note: Inside the stage_2_app folder there is a readme.md file that contains the project description and a gif of the app.
