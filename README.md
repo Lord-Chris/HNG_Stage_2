@@ -1,16 +1,13 @@
 # stage_2_task
 
-A new Flutter project.
+An app that receives and displays user input
 
-## Getting Started
+#### - [For HNG i8 Internship](https://zuri.team)
 
-This project is a starting point for a Flutter application.
+![HNG Logo](https://www.techzim.co.zw/wp-content/uploads/2018/04/TheHNGInternship-e1524228565227.png)
 
-A few resources to get you started if this is your first Flutter project:
+![I4G Logo](https://ingressive.org/wp-content/uploads/2020/05/I4G-Logo-Color-Cropped.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Zuri Logo](https://res.cloudinary.com/zuri-team/image/upload/zuriboard/tenant-logo/ms5faj5pae6nd03wazk1.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
